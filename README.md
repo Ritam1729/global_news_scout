@@ -1,5 +1,4 @@
 # Global News Scout: Real-Time Intelligence & RAG System
-**Live Demo:** [https://global-news-scout.onrender.com](https://huggingface.co/spaces/Shankit324/global-news-scout)
 
 **Global News** Scout is a high-performance, real-time Retrieval-Augmented Generation (RAG) system built with **Pathway**, **Google Gemini**, and **Gradio**. It monitors live news streams and combines them with a persistent User Memory to provide context-aware intelligence on current events.
 
